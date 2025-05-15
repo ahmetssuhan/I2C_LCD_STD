@@ -38,4 +38,4 @@ This project demonstrates how to use the I2C peripheral of the STM32F407G-DISC1 
 
 ## License
 
-This project is licensed under the terms of the included `LICENSE` file.
+This project is licensed under the terms of the included `LICENSE` file.(MIT License if you want to use you can use whenever you want)
